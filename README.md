@@ -1,6 +1,7 @@
 # Quiz-App
 # Quiz App Using TypeScript, React, and API
 <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" alt="TypeScript Logo" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/assets/images/logo.svg" alt="React Logo" width="50" height="50" />
 
 
 You can view the live version of this project by clicking [here](https://unrivaled-tapioca-41459f.netlify.app/).
