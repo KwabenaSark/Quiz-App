@@ -3,7 +3,7 @@
 
 
 You can view the live version of this project by clicking
-## [here](https://unrivaled-tapioca-41459f.netlify.app/).
+## [HERE](https://unrivaled-tapioca-41459f.netlify.app/).
 
 This is a quiz application built with TypeScript and React, using an API to retrieve quiz questions and answers. The application features multiple choice questions and provides instant feedback on user-selected answers.
 
